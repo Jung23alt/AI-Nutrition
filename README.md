@@ -46,7 +46,8 @@ AI Nutritionist is a Streamlit-based application that leverages the Google Gemin
 4. View the nutritional breakdown and health analysis.
 
 ## Example Output
-**Input:** 
+**Input: <img width="764" height="476" alt="image" src="https://github.com/user-attachments/assets/bbbbe7d2-306e-41ae-9d48-9edfdac76e97" />
+
 
 **Generated Response:**
 ```
