@@ -1,6 +1,12 @@
 # AI Nutritionist
 
-AI Nutritionist is a Streamlit-based application that leverages the Google Gemini API to analyze food images and estimate their nutritional content, including total calories, macronutrient breakdown, and health assessment.
+# 🥗 AI Nutritionist
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Google Gemini](https://img.shields.io/badge/AI-Google%20Gemini-orange)
+
+AI Nutritionist is a simple web application that uses **Google Gemini** to analyze food images and provide an estimated nutritional breakdown.
 
 ## Features
 - Upload an image of food items.
